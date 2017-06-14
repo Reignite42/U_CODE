@@ -1,0 +1,10 @@
+D:\Documents and Settings\User\Рабочий стол\MInd\Поиск по словарям\Поиск по словарям\bin\Debug\Поиск по словарям.exe
+D:\Documents and Settings\User\Рабочий стол\MInd\Поиск по словарям\Поиск по словарям\bin\Debug\Поиск по словарям.pdb
+D:\Documents and Settings\User\Рабочий стол\MInd\Поиск по словарям\Поиск по словарям\bin\Debug\Поиск по словарям.xml
+D:\Documents and Settings\User\Рабочий стол\MInd\Поиск по словарям\Поиск по словарям\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\User\Рабочий стол\MInd\Поиск по словарям\Поиск по словарям\obj\Debug\Поиск_по_словарям.Form1.resources
+D:\Documents and Settings\User\Рабочий стол\MInd\Поиск по словарям\Поиск по словарям\obj\Debug\Поиск_по_словарям.Resources.resources
+D:\Documents and Settings\User\Рабочий стол\MInd\Поиск по словарям\Поиск по словарям\obj\Debug\Поиск по словарям.vbproj.GenerateResource.Cache
+D:\Documents and Settings\User\Рабочий стол\MInd\Поиск по словарям\Поиск по словарям\obj\Debug\Поиск по словарям.exe
+D:\Documents and Settings\User\Рабочий стол\MInd\Поиск по словарям\Поиск по словарям\obj\Debug\Поиск по словарям.xml
+D:\Documents and Settings\User\Рабочий стол\MInd\Поиск по словарям\Поиск по словарям\obj\Debug\Поиск по словарям.pdb

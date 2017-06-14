@@ -1,0 +1,10 @@
+D:\Documents and Settings\User\Рабочий стол\MInd\Оптимизация словаря даля\Оптимизация словаря даля\bin\Debug\Оптимизация словаря даля.exe
+D:\Documents and Settings\User\Рабочий стол\MInd\Оптимизация словаря даля\Оптимизация словаря даля\bin\Debug\Оптимизация словаря даля.pdb
+D:\Documents and Settings\User\Рабочий стол\MInd\Оптимизация словаря даля\Оптимизация словаря даля\bin\Debug\Оптимизация словаря даля.xml
+D:\Documents and Settings\User\Рабочий стол\MInd\Оптимизация словаря даля\Оптимизация словаря даля\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\User\Рабочий стол\MInd\Оптимизация словаря даля\Оптимизация словаря даля\obj\Debug\Оптимизация_словаря_даля.Form1.resources
+D:\Documents and Settings\User\Рабочий стол\MInd\Оптимизация словаря даля\Оптимизация словаря даля\obj\Debug\Оптимизация_словаря_даля.Resources.resources
+D:\Documents and Settings\User\Рабочий стол\MInd\Оптимизация словаря даля\Оптимизация словаря даля\obj\Debug\Оптимизация словаря даля.vbproj.GenerateResource.Cache
+D:\Documents and Settings\User\Рабочий стол\MInd\Оптимизация словаря даля\Оптимизация словаря даля\obj\Debug\Оптимизация словаря даля.exe
+D:\Documents and Settings\User\Рабочий стол\MInd\Оптимизация словаря даля\Оптимизация словаря даля\obj\Debug\Оптимизация словаря даля.xml
+D:\Documents and Settings\User\Рабочий стол\MInd\Оптимизация словаря даля\Оптимизация словаря даля\obj\Debug\Оптимизация словаря даля.pdb
